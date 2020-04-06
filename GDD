@@ -1,0 +1,29 @@
+-Tytuł: Arkanoid
+
+-Autor: Karol Chojowski
+
+-----Wszystko na temat mechaniki,cechy oraz technik użytych do stworzenia gry-----
+
+Gameplay:
+
+-Cele:
+Zniszczenie wszystkich elementów na planszy poprzez odbijanie się piłki pomiędzy ścianami, ruchomą platformą a także tymi elementami. 
+Po uderzeniu piłką o element zostanie on zniszczony.
+
+Mechanika:
+
+-Serowanie:
+Poruszanie platformą za pomocą "A" i "D"
+
+Poziomy:
+Zakładam stworzenie 9 poziomów, każdy z innym poziomem trudności.
+
+Interfejs:
+
+-Gra przeglądarkowa
+
+Techniki:
+
+-HTML
+-JS
+-CSS
