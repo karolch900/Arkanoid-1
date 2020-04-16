@@ -1,0 +1,76 @@
+    body{
+        background-image: url("tlo.png")
+    }
+
+    #canvas{
+        background-color: lightgray;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #out{
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -50%)      
+    }
+    
+    #button{
+        position: absolute;
+        top: 97%;
+        left: 50%;
+        transform: translate(-50%, -50%) 
+    }
+
+    #container{
+        position: absolute;
+        top: 10%;
+        left: 50%;z
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+        
+    #buttsg{
+        color:red;
+        background-color: lime;
+        border: 5px solid red;
+        height: 50px;
+        width: 100px;
+    }
+
+    #sterowanie{
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #tabela{
+        position: absolute;
+        top: 85%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #tabela2{
+        position: absolute;
+        top: 85%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #napis{
+        position: absolute;
+        top: 73%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
